@@ -130,3 +130,26 @@
 }
 
 
+.visual-title {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 50px;
+}
+
+.brand-name {
+  font-size: clamp(52px, 7vw, 90px);
+  line-height: 1;
+  font-weight: 800;
+}
+
+.project-name {
+  font-size: clamp(30px, 5vw, 64px);
+  line-height: 1.1;
+  font-weight: 800;
+  letter-spacing: -0.06em;
+  text-align: center;
+}
+
+
+
