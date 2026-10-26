@@ -140,13 +140,13 @@
 .brand-name {
   font-size: clamp(42px, 7vw, 80px);
   line-height: 1;
-  font-weight: 600;
+  font-weight: 400;
 }
 
 .project-name {
   font-size: clamp(20px, 5vw, 54px);
   line-height: 1.1;
-  font-weight: 400;
+  font-weight: 300;
   letter-spacing: -0.06em;
   text-align: center;
 }
