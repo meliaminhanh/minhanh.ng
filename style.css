@@ -179,5 +179,18 @@
   .main-nav {
     gap: 16px;
   }
+  
+.main-nav a.nav-brush {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  line-height: 1;
+}
+
+.main-nav a.nav-brush::before {
+  inset: 0;
+}
+
 }
 
