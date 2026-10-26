@@ -138,9 +138,9 @@
 }
 
 .brand-name {
-  font-size: clamp(42px, 7vw, 80px);
+  font-size: clamp(32px, 7vw, 60px);
   line-height: 1;
-  font-weight: 400;
+  font-weight: 500;
 }
 
 .project-name {
